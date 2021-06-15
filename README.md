@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60822b09-cc75-4af2-b7c3-51c5de83ae07/deploy-status)](https://app.netlify.com/sites/nifty-noyce-388352/deploys)
 # Nowify
 
 A simple app to display your currently playing Spotify track on a Raspberry Pi, made with Vue.
